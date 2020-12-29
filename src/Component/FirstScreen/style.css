@@ -1,0 +1,23 @@
+.mainscreen {
+    opacity: 0.8;
+}
+
+.datascreen {
+   height: 70vh;
+   width: 85%;
+}
+
+.labelHeading {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.griddata {
+    overflow-y: auto;
+    height: 40vh;
+}
+
+.filter {
+    height: 35px;
+}
+
